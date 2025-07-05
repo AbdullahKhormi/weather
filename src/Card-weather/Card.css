@@ -1,0 +1,29 @@
+.card{
+    background-color: rgba(28 52 91 / 36%);
+								width: 100%;
+								padding: 10px;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 11px 1px rgba(0,0,0,0.05);
+    direction: rtl;
+}
+.titleDate{
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
+.title{
+    margin-right: 20px;
+}
+.date{
+        margin-right: 20px;
+
+}
+.degree{
+text-align: right;
+}
+.minMax{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
